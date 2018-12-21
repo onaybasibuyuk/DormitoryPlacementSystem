@@ -31,6 +31,10 @@ public class Student {
 		return age;
 	}
 	
+	public void setHomeCity(String homeCity){
+		this.homeCity = homeCity;
+	}
+	
 	public String getHomeCity() {
 		return homeCity;
 	}
